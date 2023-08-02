@@ -1,5 +1,5 @@
 # advir
-## Elucidating the Role of the Human Body Virome in Alzheimer's Disease Pathogenesis
+## Elucidating the Contribution of Gut Pathogenic Microbes in Shaping Alzheimer's Disease Phenotypes
 
 Alzheimer's disease is a growing concern globally, and understanding its underlying mechanisms is crucial to developing effective intervention strategies. The gut-brain axis has emerged as a potential player in neurodegenerative diseases, including Alzheimer's, and this study aims to explore its role in more detail.
 Using an existing gut-microbiome metagenomics dataset available from the NCBI, this study aims to elucidate the role of differential microbial diversity and composition, including bacteria, fungi, and viruses, in contributing to Alzheimer's disease phenotypes. The study will also assess potential gender-specific variations in microbial profiles that may contribute to the differential expression of Alzheimer's disease phenotypes.
