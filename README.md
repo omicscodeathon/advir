@@ -34,13 +34,13 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 ### Results
 #### Results 1
-![xgboost](output/1.png)
+![fig1](output/1.png)
 #### Results 2
-![RF](output/2.png)
+![fig2](output/2.png)
 #### Results 3
-![lightgbm](output/3.png)
+![fig3](output/3.png)
 #### Results 4
-![venn](figures/4.png)
+![fig4](figures/4.png)
 
 
 ### Contributers
