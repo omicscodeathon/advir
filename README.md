@@ -23,7 +23,8 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 ![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
 
-![advir project data retreival](figures/Methods Workflow.svg) 
+![advir project methods workflow](figures/Methods Workflow.svg)
+
 
 
 ### Results
@@ -38,12 +39,11 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 
 ### Contributers
-1. Nouhaila En Najih
-2. Bonface Odhiambo Onyango
-3. Edward Tettevi
-4. Eddie T. Lulamba
-5. Sibongiseni Msipa
-6. Fatima Zahra Annassiri 
-7. Fatma Omar
-8. Olaitan Awe
+1. Edward Jenner Tettevi
+2. Aminata
+3. Najla
+4. Bernard
+5. Samuel
+6. Mark
+7. Awe
 
