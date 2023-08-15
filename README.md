@@ -21,7 +21,12 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 ### Methods
 
+
 ![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
+
+
+
+
 
 ![advir project methods workflow](figures/Methods.Workflow.png)
 
