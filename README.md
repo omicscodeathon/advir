@@ -12,4 +12,4 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 ![Image description](advir/figures/Data.Retreival.Workflow.svg) 
 
-![Image description](https://github.com/omicscodeathon/advir/edit/main/figures/Data.Retreival.Workflow.svg)
+!Image description (https://github.com/omicscodeathon/advir/edit/main/figures/Data.Retreival.Workflow.svg)
