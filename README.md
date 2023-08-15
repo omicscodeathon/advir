@@ -10,6 +10,4 @@ The implications of this study are significant, as unravelling the contribution 
 In conclusion, this study aims to contribute essential knowledge regarding the role of diverse microbial communities, including bacteria, fungi, and viruses, in shaping Alzheimer's disease phenotypes. Leveraging an existing gut-microbiome metagenomics dataset from the NCBI, the study anticipates generating significant data to advance our comprehension of the complex interplay between the gut microbiome and Alzheimer's disease. The findings may hold promise for future research avenues and clinical approaches aimed at harnessing the gut-brain axis for improved Alzheimer's disease management and patient outcomes.  </p> 
 
 
-![Image description](advir/figures/Data.Retreival.Workflow.svg) 
-
-![Image description](https://github.com/omicscodeathon/advir/main/figures/Data.Retreival.Workflow.svg)
+![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
