@@ -20,13 +20,14 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
   
 
 ### Methods
-
+#### Metagenomics Data Retreival Workflow
 
 ![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
 
 
 
 
+#### Analysis Workflow
 
 ![advir project methods workflow](figures/Methods.Workflow.png)
 
