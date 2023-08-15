@@ -9,5 +9,41 @@ The study's expected outcomes are promising, as it is anticipated to provide val
 The implications of this study are significant, as unravelling the contribution of differential microbial diversity and composition in Alzheimer's disease phenotypes could have profound implications for disease management and therapeutic interventions. The identification of gender-specific variations in the gut microbiome may pave the way for personalized and targeted treatments tailored to each patient's microbial profile.
 In conclusion, this study aims to contribute essential knowledge regarding the role of diverse microbial communities, including bacteria, fungi, and viruses, in shaping Alzheimer's disease phenotypes. Leveraging an existing gut-microbiome metagenomics dataset from the NCBI, the study anticipates generating significant data to advance our comprehension of the complex interplay between the gut microbiome and Alzheimer's disease. The findings may hold promise for future research avenues and clinical approaches aimed at harnessing the gut-brain axis for improved Alzheimer's disease management and patient outcomes.  </p> 
 
+## Table of Contents
+- [Introduction](#Introduction)
+- [Objectives](#Objectives)
+- [Data](#Data)
+- [Methods](#Methods)
+- [Results](#Results)
+- [Scripts](#Scripts)
+- [Team](#Team)
+  
+
+### Methods
 
 ![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
+
+![advir project data retreival](figures/Methods Workflow.svg) 
+
+
+### Results
+#### Results 1
+![xgboost](output/1.png)
+#### Results 2
+![RF](output/2.png)
+#### Results 3
+![lightgbm](output/3.png)
+#### Results 4
+![venn](figures/4.png)
+
+
+### Contributers
+1. Nouhaila En Najih
+2. Bonface Odhiambo Onyango
+3. Edward Tettevi
+4. Eddie T. Lulamba
+5. Sibongiseni Msipa
+6. Fatima Zahra Annassiri 
+7. Fatma Omar
+8. Olaitan Awe
+
