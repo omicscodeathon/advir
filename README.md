@@ -12,7 +12,6 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Objectives](#Objectives)
-- [Data](#Data)
 - [Methods](#Methods)
 - [Results](#Results)
 - [Team](#Team)
@@ -37,10 +36,14 @@ using an existing gut-microbiome metagenomics dataset available from the NCBI.
 Additionally, we aim to discern potential gender-specific variations in microbial profiles that
 may contribute to the differential expression of Alzheimer's disease phenotypes. </p> 
 
-### Methods
+### [Methods](#Methods)
+
 #### Metagenomics Data Retreival Workflow
 
 ![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
+
+
+
 
 
 
@@ -51,7 +54,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 
 
-### Results
+###  [Results](#Results)
 #### Alzheimer's Disease Female Cases
 #### Species Abundance
 ![fig1](figures/AD-Females-Species.png)
@@ -66,7 +69,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 ![fig4](figures/FemaleAD-Control-Genus.jpg)
 
 
-### Contributers
+### [Team](#Team)
 1. Edward
 2. Aminata
 3. Najla
