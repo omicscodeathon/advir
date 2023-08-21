@@ -34,18 +34,22 @@ In conclusion, this study aims to contribute essential knowledge regarding the r
 
 
 ### Results
-#### Results 1
-![fig1](output/1.png)
-#### Results 2
-![fig2](output/2.png)
-#### Results 3
-![fig3](output/3.png)
-#### Results 4
-![fig4](figures/4.png)
+#### Alzheimer's Disease Female Cases
+#### Species Abundance
+![fig1](figures/AD-Females-Species.png)
+#### Genus Abundance
+![fig2](figures/AD-Females-Genus.png)
+
+
+#### Alzheimer's Disease Female Controls
+#### Species Abundance
+![fig3](figures/FemaleAD-Control-Species.png)
+#### Genus Abundance
+![fig4](figures/FemaleAD-Control-Genus.jpg)
 
 
 ### Contributers
-1. Edward Jenner Tettevi
+1. Edward
 2. Aminata
 3. Najla
 4. Bernard
