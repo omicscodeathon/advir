@@ -40,7 +40,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 #### Metagenomics Data Retreival Workflow
 
-![advir project data retreival](figures/Data.Retreival.Workflow.svg) 
+![advir project data retreival](figures/Data.Retreival.jpg) 
 
 
 
@@ -50,7 +50,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 #### Analysis Workflow
 
-![advir project methods workflow](figures/Methods.Workflow.png)
+![advir project methods workflow](figures/analysis.png)
 
 
 
