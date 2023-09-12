@@ -71,11 +71,11 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 
 ### [Team](#Team)
-1. Edward
-2. Aminata
-3. Najla
-4. Bernard
-5. Samuel
-6. Mark
-7. Awe
+1. Edward Tettevi
+2. Aminata Mbaye
+3. Najla Zydany
+4. Bernard Solodzi
+5. Hildah Njoroge
+6. Mark Kivumbi
+7. Awe Olaitan
 
