@@ -1,5 +1,5 @@
 # advir
-## Elucidating the Contribution of Gut Pathogenic Microbes in Shaping Alzheimer's Disease Phenotypes 
+## ELUCIDATING THE CONTRIBUTION OF GUT MICROBIAL DIVERSITY TO ALZHEIMER'S DISEASE PHENOTYPES 
 
 ### General Overview
 
@@ -69,13 +69,12 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 #### Genus Abundance
 ![fig4](figures/FemaleAD-Control-Genus.jpg)
 
+### [Conclusion](#Conclusion)
+<p align="justify"> Our observations reveal notable disparities in the microbial composition of the gut microbiome between male and female AD cases, as well as between the control group and AD cases. These findings suggest a potential influence of these differences on the phenotype of the disease.</p>
+
 
 ### [Team](#Team)
-1. Edward Tettevi
-2. Aminata Mbaye
-3. Najla Zydany
-4. Bernard Solodzi
-5. Hildah Njoroge
-6. Mark Kivumbi
-7. Awe Olaitan
+1. Edward J. Tettevi
+2. Mark Kivumbi
+3. Awe Olaitan
 
