@@ -57,19 +57,82 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 
 
-###  [Results](#Results)
-#### Alzheimer's Disease Female Cases
-#### Species Abundance
-![fig1](figures/AD-Females-Species.png)
-#### Genus Abundance
-![fig2](figures/AD-Females-Genus.png)
+##  [Results](#Results)
+
+### Bacteria genera diversity and abundance
+
+#### Female Alzheimer's Disease Controls and Cases
+![fig. 3](figures/alphaplot_female.png)
+#### Fig. 3: Bacteria abundance alpha diversity between female controls and cases.
 
 
-#### Alzheimer's Disease Female Controls
-#### Species Abundance
-![fig3](figures/FemaleAD-Control-Species.png)
-#### Genus Abundance
-![fig4](figures/FemaleAD-Control-Genus.jpg)
+![fig. 4](figures/PCoABC_female.png)
+#### Fig. 4: Bray-Cutis distance bacteria abundance beta diversity between female controls and cases.
+
+
+![fig. 5](figures/PCoAJD_female.png)
+#### Fig. 5: Jaccard distance bacteria abundance beta diversity between female controls and cases.
+
+
+![fig. 6](figures/volPlot_female.png)
+#### Fig. 6a: Bacteria differential abundance between female control and cases.
+
+
+![fig. 6](figures/diffAb_female.png)
+#### Fig. 6b: Bacteria differential abundance between female control and cases.
+
+
+
+#### Male Alzheimer's Disease Cases and Control
+![fig. 7](figures/male-alpha_male.png)
+#### Fig. 7: Bacteria abundance alpha diversity between male control and cases.
+
+
+![fig. 8](figures/pcaBC-male.png)
+#### Fig. 8: Bray-Cutis distance bacteria abundance beta diversity between male control and cases.
+
+
+![fig. 9](figures/pcaJD-male.png)
+#### Fig. 9: Jaccard distance bacteria abundance beta diversity between male control and cases.
+
+
+
+### Male and Female AD Cases
+![fig. 10](figures/case-alpha-gender.png)
+#### Fig. 10: Bacteria abundance alpha diversity between male and female cases.
+
+![fig. 11](figures/control-alpha-gender.png)
+#### Fig. 11: Bacteria abundance alpha diversity between male and female controls.
+
+![fig. 12](figures/dfAb-cases.png)
+#### Fig. 12: Bacteria differencial abundance observed between male and female AD cases.
+
+![fig. 13](figures/pca-case-bc.png)
+#### Fig. 13: Bray-Cutis distance bacteria abundance beta diversity between male and female cases.
+
+![fig. 14](figures/pca-case-jd.png)
+#### Fig. 14: BJaccard distance bacteria abundance beta diversity between male and female cases.
+
+![fig. 15](figures/pca-ctrl-bc.png)
+#### Fig. 15a: Bray-Cutis distance bacteria abundance beta diversity between male and female controls.
+
+![fig. 15](figures/pca-ctrl-jd.png)
+#### Fig. 15b: Jaccard distance bacteria abundance beta diversity between male and female controls.
+
+![fig. 16](figures/volcano-cases.png)
+#### Fig. 16: Bacteria differential abundance between female and male cases.
+
+
+
+### Eukaryotic genera abundance in male and female AD Cases
+![fig. 10](figures/Eukaryotic_genera_abundance_male.female.png)
+#### Fig. 17: Abundance of eukaryotic genera between female and male AD cases.
+
+
+### Archaea genera abundance between AD Controls and Cases
+![fig. 10](figures/archaea_genera_abundance_cases.ctrl.png)
+#### Fig. 17: Abundance of archaea genera between AD controls and cases.
+
 
 ### [Conclusion](#Conclusion)
 <p align="justify"> Our observations reveal notable disparities in the microbial composition of the gut microbiome between male and female AD cases, as well as between the control group and AD cases. These findings suggest a potential influence of these differences on the phenotype of the disease.</p>
