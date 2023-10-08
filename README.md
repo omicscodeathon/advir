@@ -41,6 +41,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 #### Metagenomics Data Retreival Workflow
 
 ![advir project data retreival](figures/Data.Retreival.jpg) 
+#### Fig. 1: Metagenomics Data Retreival Workflow
 
 
 
