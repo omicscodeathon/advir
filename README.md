@@ -44,6 +44,8 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 
 #### Fig. 1: Metagenomics data retreival workflow
 
+<p align="justify"> The gut-microbiome metagenomics dataset utilized in this research study was sourced from two major repositories: the National Center for Biotechnology Information Sequence Read Archive (NCBI SRA) and GMrepo data. To be specific, three project datasets identified by the Project IDs PRJEB51982, PRJNA770746, and PRJNA573963 were extracted from NCBI SRA, while two project datasets denoted by the Project IDs PRJNA496408 and PRJEB11419 were acquired from GMrepo. A thorough evaluation of the datasets was conducted to determine their suitability for inclusion in the present study, considering their data structure and relevance. Eventually, two project datasets were chosen and incorporated into the analysis (Fig. 1). These selected datasets offer valuable insights into the composition and functional aspects of the gut microbiome. </p> 
+
 
 
 
@@ -55,6 +57,7 @@ may contribute to the differential expression of Alzheimer's disease phenotypes.
 ![advir project methods workflow](figures/analysis.png)
 #### <p align="left"> Fig. 2: Metagenomics data analysis workflow. Adapted form CZID (https://czid.org/)  </p> 
 
+<p align="justify"> The CZ ID metagenomics (mNGS) pipeline version 8.2.5 (Fig. 2) was employed to handle raw sequencing data and produce comprehensive reports summarizing the identified taxa. To ensure accuracy, the pipeline underwent various preprocessing steps, including input validation, ERCC removal, quality control filtering, elimination of host and human reads, and removal of duplicate reads. For species identification, Minimap2, DIAMOND, and BLAST alignments were utilized. Contig assembly was performed using SPAdes, and subsequent analysis encompassed alpha and beta diversity plots, estimation of differential abundance, and visualization through heatmaps and volcano plots. </p> 
 
 
 ##  [Results](#Results)
